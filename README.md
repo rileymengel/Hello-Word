@@ -15,6 +15,9 @@ github sample
 Making a sample repository in github for BAIS. 
 
 # How to Run a Program 
-' # Question 1: Print "Hello, Spyder" in the console.
+Print "Hello, Spyder" in the console.
 
-print("Hello, Spyder")
+'print("Hello, Spyder")'
+
+
+
