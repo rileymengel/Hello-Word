@@ -15,10 +15,7 @@ github sample
 Making a sample repository in github for BAIS. 
 
 # How to Run a Program 
-Print "Hello, Spyder" in the console.
-
-print("Hello, Spyder")
-
+How to run a program about information about John Smiths age
 ```
 {
   "firstName": "John",
