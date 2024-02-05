@@ -1,7 +1,7 @@
 # Table of Contents
 
 
-1. **Project Title**
+1. **Project Title**/
 2. **Description**
 3. **How to Run a Program**
 4. **Files Used**
