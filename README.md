@@ -18,8 +18,3 @@ Making a sample repository in github for BAIS.
 ' # Question 1: Print "Hello, Spyder" in the console.
 
 print("Hello, Spyder")
-
-print(5+3)
-
-name = input("what is your nam: ")
-print("hello,", name)'
