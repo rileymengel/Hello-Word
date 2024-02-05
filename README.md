@@ -19,5 +19,11 @@ Print "Hello, Spyder" in the console.
 
 print("Hello, Spyder")
 
-
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
 
