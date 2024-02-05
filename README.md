@@ -17,7 +17,7 @@ Making a sample repository in github for BAIS.
 # How to Run a Program 
 Print "Hello, Spyder" in the console.
 
-'print("Hello, Spyder")'
+print("Hello, Spyder")
 
 
 
