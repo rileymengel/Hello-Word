@@ -23,7 +23,7 @@ How to run a program about information about John Smiths age
   "age": 25
 }
 ```
-#Aditonal Documentation
+# Aditonal Documentation
 Here is a emoji, :joy:
 
 # Versioning 
